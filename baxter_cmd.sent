@@ -1,0 +1,22 @@
+<s> GRIPPER </s>
+<s> MOVE </s>
+<s> LEFT </s>
+<s> RIGHT </s>
+<s> UP </s>
+<s> DOWN </s>
+<s> FORWARD </s>
+<s> BACKWARD </s>
+<s> ROTATE </s>
+<s> CLOCKWISE </s>
+<s> ANTICLOCKWISE </s>
+<s> FAST </s>
+<s> FASTER </s>
+<s> SLOW </s>
+<s> SLOWER </s>
+<s> SPEED UP </s>
+<s> SLOW DOWN </s>
+<s> SHUTDOWN </s>
+<s> STOP </s>
+<s> SWITCH </s>
+<s> PAUSE </s>
+<s> RESUME </s>

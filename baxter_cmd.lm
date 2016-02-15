@@ -1,0 +1,113 @@
+Language model created by QuickLM on Tue Dec  8 23:20:33 EST 2015
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 22 sentences and 23 words
+
+\data\
+ngram 1=23
+ngram 2=43
+ngram 3=24
+
+\1-grams:
+-0.7911 </s> -0.3010
+-0.7911 <s> -0.2167
+-2.1335 ANTICLOCKWISE -0.2244
+-2.1335 BACKWARD -0.2244
+-2.1335 CLOCKWISE -0.2244
+-1.8325 DOWN -0.2244
+-2.1335 FAST -0.2244
+-2.1335 FASTER -0.2244
+-2.1335 FORWARD -0.2244
+-2.1335 GRIPPER -0.2244
+-2.1335 LEFT -0.2244
+-2.1335 MOVE -0.2244
+-2.1335 PAUSE -0.2244
+-2.1335 RESUME -0.2244
+-2.1335 RIGHT -0.2244
+-2.1335 ROTATE -0.2244
+-2.1335 SHUTDOWN -0.2244
+-1.8325 SLOW -0.2167
+-2.1335 SLOWER -0.2244
+-2.1335 SPEED -0.2946
+-2.1335 STOP -0.2244
+-2.1335 SWITCH -0.2244
+-1.8325 UP -0.2244
+
+\2-grams:
+-1.6435 <s> ANTICLOCKWISE 0.0000
+-1.6435 <s> BACKWARD 0.0000
+-1.6435 <s> CLOCKWISE 0.0000
+-1.6435 <s> DOWN 0.0000
+-1.6435 <s> FAST 0.0000
+-1.6435 <s> FASTER 0.0000
+-1.6435 <s> FORWARD 0.0000
+-1.6435 <s> GRIPPER 0.0000
+-1.6435 <s> LEFT 0.0000
+-1.6435 <s> MOVE 0.0000
+-1.6435 <s> PAUSE 0.0000
+-1.6435 <s> RESUME 0.0000
+-1.6435 <s> RIGHT 0.0000
+-1.6435 <s> ROTATE 0.0000
+-1.6435 <s> SHUTDOWN 0.0000
+-1.3424 <s> SLOW 0.0000
+-1.6435 <s> SLOWER 0.0000
+-1.6435 <s> SPEED 0.0000
+-1.6435 <s> STOP 0.0000
+-1.6435 <s> SWITCH 0.0000
+-1.6435 <s> UP 0.0000
+-0.3010 ANTICLOCKWISE </s> -0.3010
+-0.3010 BACKWARD </s> -0.3010
+-0.3010 CLOCKWISE </s> -0.3010
+-0.3010 DOWN </s> -0.3010
+-0.3010 FAST </s> -0.3010
+-0.3010 FASTER </s> -0.3010
+-0.3010 FORWARD </s> -0.3010
+-0.3010 GRIPPER </s> -0.3010
+-0.3010 LEFT </s> -0.3010
+-0.3010 MOVE </s> -0.3010
+-0.3010 PAUSE </s> -0.3010
+-0.3010 RESUME </s> -0.3010
+-0.3010 RIGHT </s> -0.3010
+-0.3010 ROTATE </s> -0.3010
+-0.3010 SHUTDOWN </s> -0.3010
+-0.6021 SLOW </s> -0.3010
+-0.6021 SLOW DOWN 0.0000
+-0.3010 SLOWER </s> -0.3010
+-0.3010 SPEED UP 0.0000
+-0.3010 STOP </s> -0.3010
+-0.3010 SWITCH </s> -0.3010
+-0.3010 UP </s> -0.3010
+
+\3-grams:
+-0.3010 <s> ANTICLOCKWISE </s>
+-0.3010 <s> BACKWARD </s>
+-0.3010 <s> CLOCKWISE </s>
+-0.3010 <s> DOWN </s>
+-0.3010 <s> FAST </s>
+-0.3010 <s> FASTER </s>
+-0.3010 <s> FORWARD </s>
+-0.3010 <s> GRIPPER </s>
+-0.3010 <s> LEFT </s>
+-0.3010 <s> MOVE </s>
+-0.3010 <s> PAUSE </s>
+-0.3010 <s> RESUME </s>
+-0.3010 <s> RIGHT </s>
+-0.3010 <s> ROTATE </s>
+-0.3010 <s> SHUTDOWN </s>
+-0.6021 <s> SLOW </s>
+-0.6021 <s> SLOW DOWN
+-0.3010 <s> SLOWER </s>
+-0.3010 <s> SPEED UP
+-0.3010 <s> STOP </s>
+-0.3010 <s> SWITCH </s>
+-0.3010 <s> UP </s>
+-0.3010 SLOW DOWN </s>
+-0.3010 SPEED UP </s>
+
+\end\

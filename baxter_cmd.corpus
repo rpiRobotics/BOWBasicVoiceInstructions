@@ -1,0 +1,23 @@
+gripper
+move
+left
+right
+up
+down
+forward
+backward
+rotate
+clockwise
+anticlockwise
+fast
+faster
+slow
+slower
+speed up
+slow down
+shutdown
+stop
+switch
+pause
+resume
+
